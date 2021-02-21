@@ -1,1 +1,1 @@
-# Simple projects in Learning Flutter with Net Ninja
+# Simple projects while Learning Flutter with Net Ninja
